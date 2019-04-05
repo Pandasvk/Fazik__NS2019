@@ -1,0 +1,3 @@
+player_1 match status - vysledok =  0 - prehra / 1- vyhra
+tournament type = 0 - online / 1 -  offline
+Player race - 0 - Protos / 1 - Terran / 2 -Zerg / 3 - Random
